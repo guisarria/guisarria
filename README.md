@@ -7,3 +7,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisarria&show_icons=true&theme=aura)
+
+![Codewars](https://www.codewars.com/users/guisarria/badges/micro)
